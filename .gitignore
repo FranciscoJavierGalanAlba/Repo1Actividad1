@@ -1,0 +1,8 @@
+# ignorar archivo configuracion_local.sh
+configuracion_local.sh
+
+# ignorar carpeta
+archivos_personales/
+
+# ignorar img
+logo2.xsf
